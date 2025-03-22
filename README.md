@@ -40,10 +40,5 @@ You can reach us at:
 
 Feel free to check out our repositories and collaborate with us!
 
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InnovationTech&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
